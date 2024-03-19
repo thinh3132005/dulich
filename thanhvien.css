@@ -1,0 +1,7 @@
+.anh{
+    height:13rem;
+    width:13rem;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-bottom: 1rem;
+}
